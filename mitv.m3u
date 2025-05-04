@@ -1,26 +1,40 @@
-#EXTINF:-1 group-title="ESPAÑA",TVE INTERNACIONAL
+#EXTINF:-1 group-title="VARIADO",TVE INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
-#EXTINF:-1 group-title="ESPAÑA",TVE STAR
+#EXTINF:-1 group-title="CINE",TVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_360.m3u8
-#EXTINF:-1 group-title="ESPAÑA",TVE 1
+#EXTINF:-1 group-title="VARIADO",TVE 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="ESPAÑA",TVE 2
+#EXTINF:-1 group-title="VARIADO",TVE 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 group-title="ESPAÑA",TVE 24h
+#EXTINF:-1 group-title="NOTICIAS",TVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="ESPAÑA",TVE Clan
+#EXTINF:-1 group-title="INFANTIL",TVE Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-#EXTINF:-1 group-title="ESPAÑA",Antena 3
+#EXTINF:-1 group-title="VARIADO",Antena 3
 http://181.78.109.48:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="ESPAÑA",A3S
+#EXTINF:-1 group-title="SERIE",A3S
 http://181.78.109.48:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="ESPAÑA" ,AXN ESPAÑA
+#EXTINF:-1 group-title="CINE" ,AXN ESPAÑA
 http://181.78.109.48:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="ESPAÑA" ,TELECINCO
+#EXTINF:-1 group-title="VARIADO" ,TELECINCO
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 group-title="USA" ,AMERICA TeVe
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 group-title="USA" ,SPORT EXTRA ESPAÑOL
+#EXTINF:-1 group-title="DEPORTE" ,SPORT EXTRA ESPAÑOL
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" ,FILMEX
+#EXTINF:-1 group-title="CINE" ,FILMEX
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,EXTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,AURORA MEDIA FILMS
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 group-title="INFANTIL" ,BOING
+http://185.189.225.150:85/boing/index.m3u8
+#EXTINF:-1 group-title="VARIADO" ,AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="VARIADO" ,ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickenEspanol.us" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="INFANTIL",Nickelodeon en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+#EXTINF:-1 group-title="SERIE" ,NEOX ESP
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 group-title="NOVELA" , ZOY TV TURCAS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
