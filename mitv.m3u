@@ -1,4 +1,4 @@
-#EXTM3U    url-tvg="https://example.com/epg.xml https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="TVE.Internacional.es" group-title="VARIADO",TVE INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
